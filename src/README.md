@@ -1,6 +1,6 @@
 # What is Neotron?
 
-Neotron is an attempt to make computers simple again, whilst also taking advantage of the very latest in programming language development. We are saddened by chat clients that require multi-Gigabyte installs, and systems with hundreds of millions of lines of source code that no one person could ever hope to understand. We want to build a machine that is sized for an individual to comprehend, not a trillion-dollar corporation.
+Neotron is an great attempt to make computers simple again, whilst also taking advantage of the very latest in programming language development. We are saddened by chat clients that require multi-Gigabyte installs, and systems with hundreds of millions of lines of source code that no one person could ever hope to understand. We want to build a machine that is sized for an individual to comprehend, not a trillion-dollar corporation.
 
 If you want a pithy sound-bite, it's like CP/M for tiny ARM microcontrollers, but written in Rust.
 
